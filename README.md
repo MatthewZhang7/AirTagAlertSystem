@@ -118,7 +118,3 @@ pip install -r requirements.txt
 - Implement a web dashboard for visualization.
 - Enhance error handling and logging.
 - Make the geofence parameters configurable via a user interface.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
